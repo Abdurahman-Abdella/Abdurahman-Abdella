@@ -61,7 +61,7 @@
 ###
 
 <a href="https://hayanabdella.vercel.app/" target="_blank">
-  <i class="fas fa-link"></i> My Portfolio
+  🔗 My Portfolio
 </a>
 
 
