@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there%2C%20I'm%20Abdurahman%20Abdella%20🌿&fontAlign=50&fontAlignY=40&fontSize=35&desc=Passionate%20about%20tech%20and%20building%20cool%20things%20🚀&descSize=20&descAlign=50&descAlignY=70&color=gradient&fontColor=ffffff&descColor=ffffff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there%2C%20I'm%20Abdurahman%20Abdella%20🌿&fontAlign=50&fontAlignY=30&fontSize=35&desc=Passionate%20about%20tech%20and%20building%20cool%20things%20🚀&descSize=20&descAlign=50&descAlignY=50&color=gradient&fontColor=ffffff&descColor=ffffff" alt="header"/>
 </p>
-
 
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #4ade80, #16a34a); width: 60%;" />
