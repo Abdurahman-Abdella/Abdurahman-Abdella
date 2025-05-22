@@ -6,7 +6,14 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #4ade80, #16a34a); width: 60%;" />
 
-<h2 align="center">💬 A bit about me</h2>
+<table align="center">
+  <tr>
+    <td align="center" width="100%">
+      <img src="https://img.shields.io/badge/💬%20A%20Bit%20About%20Me-gradient?style=for-the-badge&logo=awesome-lists&logoColor=white&color=8e2de2&labelColor=4a00e0" />
+    </td>
+  </tr>
+</table>
+
 
 ###
 
