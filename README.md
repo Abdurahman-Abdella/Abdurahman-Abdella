@@ -14,6 +14,11 @@
 
 ###
 
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<br>
+
+###
+
 <p align="left">A passionate Front-End Developer with a strong interest in crafting clean, responsive, and interactive web applications. My focus is on delivering seamless user experiences through well-structured code and modern design principles. I enjoy pushing the boundaries of front-end technologies to create efficient and visually appealing interfaces.<br><br>💻 Tech Stack:<br>🔹 HTML, CSS, JavaScript (ES6+)<br>🔹 React.js, Next.js<br>🔹 Tailwind CSS, Bootstrap, Sass<br>🔹 Git, GitHub<br><br>🚀 What I Do:<br>✔️ Develop sleek and responsive websites<br>✔️ Optimize UI/UX for better user interaction<br>✔️ Stay updated with modern front-end trends<br>✔️ Continuously learn and improve<br><br>🎯 Interests:<br>🔹 Web Development & UI/UX Design<br>🔹 Tech Entrepreneurship & AI Engineering<br>🔹 JavaScript Frameworks & Performance Optimization<br><br>📖 Currently Learning:<br>🔹 Advanced CSS & JavaScript<br>🔹 React & Next.js Best Practices<br><br>💡 I’m always open to collaborating on exciting projects! Let’s build something great together.</p>
 
 ###
