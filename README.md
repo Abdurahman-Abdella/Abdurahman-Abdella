@@ -1,21 +1,24 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there%2C%20I'm%20Abdurahman%20Abdella%20🌿&fontAlign=50&fontAlignY=40&fontSize=35&desc=Passionate%20about%20tech%20and%20building%20cool%20things%20🚀&descSize=20&descAlign=50&descAlignY=70&color=gradient&fontColor=ffffff&descColor=ffffff" alt="header"/>
+</p>
 
 
 
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #4ade80, #16a34a); width: 60%;" />
 
-<h1 align="center">Hey 👋 What's up?</h1>
-
-###
-
-<h2 align="left">My name is Abdurahman Abdella 🌿,</h2>
-
-###
-
-<h2 align="left">👋 About me</h2>
+<h2 align="center">💬 A bit about me</h2>
 
 ###
 
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-<br>
+<p align="center">
+  <img 
+    src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" 
+    alt="Coder GIF" 
+    width="600" 
+    style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" 
+  />
+</p>
+
 
 ###
 
