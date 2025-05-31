@@ -1,6 +1,6 @@
 <!-- 🌊 Header Wave with Intro -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there%2C%20I'm%20Abdurahman%20Abdella%20🌿&fontAlign=50&fontAlignY=30&fontSize=35&desc=Passionate%20about%20tech%20and%20building%20cool%20things%20🚀&descSize=20&descAlign=50&descAlignY=50&color=gradient&fontColor=ffffff&descColor=ffffff" alt="header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&pause=400&speed=40&color=007ACC&center=true&vCenter=true&width=500&lines=Hi%20there%20👋;I'm%20Abdurahaman" alt="Typing SVG" />
 </p>
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #4ade80, #16a34a); width: 60%;" />
