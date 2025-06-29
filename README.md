@@ -1,98 +1,166 @@
-<!-- 🌊 Header Wave with Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&pause=400&speed=40&color=007ACC&center=true&vCenter=true&width=500&lines=Hi%20there%20👋;I'm%20Abdurahaman" alt="Typing SVG" />
-</p>
 
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #4ade80, #16a34a); width: 60%;" />
-
-<!-- 🧠 About Me -->
-<p align="center">
-  <img src="https://img.shields.io/badge/💬%20A%20Bit%20About%20Me-gradient?style=for-the-badge&logo=awesome-lists&logoColor=white&color=8e2de2&labelColor=4a00e0" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coder GIF" width="600" style="border-radius: 12px;" />
-</p>
-
-<p align="left">
-A passionate Front-End Developer with a strong interest in crafting clean, responsive, and interactive web applications. My focus is on delivering seamless user experiences through well-structured code and modern design principles.
-
-<br><br>
-
-💻 <strong>Tech Stack:</strong><br>
-🔹 HTML, CSS, JavaScript (ES6+)<br>
-🔹 React.js, Next.js<br>
-🔹 Tailwind CSS, Bootstrap, Sass<br>
-🔹 Git, GitHub<br><br>
-
-🚀 <strong>What I Do:</strong><br>
-✔️ Develop sleek and responsive websites<br>
-✔️ Optimize UI/UX for better user interaction<br>
-✔️ Stay updated with modern front-end trends<br>
-✔️ Continuously learn and improve<br><br>
-
-🎯 <strong>Interests:</strong><br>
-🔹 Web Development & UI/UX Design<br>
-🔹 Tech Entrepreneurship & AI Engineering<br>
-🔹 JavaScript Frameworks & Performance Optimization<br><br>
-
-📖 <strong>Currently Learning:</strong><br>
-🔹 Advanced CSS & JavaScript<br>
-🔹 React & Next.js Best Practices<br><br>
-
-💡 I’m always open to collaborating on exciting projects! Let’s build something great together.
-</p>
-
----
-
-### 🧠 My Tech Stack Includes:
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,sass,mysql,postgresql,sqlite,git,github,figma,ps,ai,pr,ae,vercel,stackoverflow&theme=dark" />
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Abdurahman+%F0%9F%91%8B;Frontend+Engineer;Building+Digital+Dreams" alt="Typing SVG" />
+  </h1>
+  
+  <div style="margin: 30px 0;">
+    <img src="https://img.shields.io/badge/Status-Available_for_Work-00D9FF?style=for-the-badge&labelColor=0A0E27&logo=rocket&logoColor=00D9FF" />
+  </div>
 </div>
 
----
+<br />
 
-### 🔢 GitHub Stats & Graph
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdurahman-Abdella&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=ff79c6&icon_color=79c0ff&text_color=ffffff" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurahman-Abdella&layout=compact&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=ff79c6&text_color=ffffff" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdurahman-Abdella&theme=dracula&hide_border=true&bg_color=0d1117&color=ff79c6&line=79c0ff&point=ffffff" alt="Contribution Graph" />
-</p>
-
----
-
-### 🌐 Explore My Work
-
-<p align="left">
-  <a href="https://hayanabdella.vercel.app/" target="_blank">🔗 My Portfolio</a>
-</p>
-
----
-
-### 📬 Reach Me Through
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/abdurahamanlinked7750" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-  </a>
-  <a href="https://www.instagram.com/satoru_hayan?igsh=cGY5d3Q5ZG1udThr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
-  </a>
-  <a href="https://t.me/@Satoru_hayan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram logo" />
-  </a>
-  <a href="https://www.facebook.com/abdurahaman.habibi.7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook logo" />
-  </a>
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" style="margin-right: 10px;">
+    <span style="background: linear-gradient(45deg, #00D9FF, #FF0080); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      Tech Arsenal
+    </span>
+  </h2>
 </div>
 
----
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/>
+        <br><strong>JavaScript</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TypeScript"/>
+        <br><strong>TypeScript</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/>
+        <br><strong>React</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
+        <br><strong>Next.js</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vue" width="50" height="50" alt="Vue.js"/>
+        <br><strong>Vue.js</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS"/>
+        <br><strong>Tailwind</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=sass" width="50" height="50" alt="SASS"/>
+        <br><strong>SASS</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma"/>
+        <br><strong>Figma</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
+        <br><strong>Git</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vite" width="50" height="50" alt="Vite"/>
+        <br><strong>Vite</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
+<br />
+
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    <span style="background: linear-gradient(45deg, #FF0080, #7928CA); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      Current Focus
+    </span>
+  </h2>
+  
+  <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A" />
+    <img src="https://img.shields.io/badge/Server_Components-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Web_Performance-FF6B6B?style=for-the-badge&logo=lighthouse&logoColor=white&labelColor=FF6B6B" />
+  </div>
+</div>
+
+<br />
+
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git">
+    <span style="background: linear-gradient(45deg, #12D8FA, #A6FFCB); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      GitHub Analytics
+    </span>
+  </h2>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdurahman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FF0080"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurahman&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurahman&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF0080&currStreakLabel=FFFFFF" />
+</div>
+
+<br />
+
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+    <span style="background: linear-gradient(45deg, #FFD700, #FFA500); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      Philosophy
+    </span>
+  </h2>
+  
+  <div style="background: linear-gradient(135deg, rgba(0,217,255,0.1), rgba(255,0,128,0.1)); border-radius: 15px; padding: 30px; margin: 20px; border: 1px solid rgba(0,217,255,0.3);">
+    <blockquote style="font-size: 18px; font-weight: 300; line-height: 1.6; color: #E6E6E6; margin: 0;">
+      <em>"Code is poetry written in logic"</em>
+    </blockquote>
+    <p style="margin-top: 15px; color: #00D9FF; font-weight: 500;">
+      Clean Architecture • Pixel Perfect Design • User-Centric Approach
+    </p>
+  </div>
+</div>
+
+<br />
+
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30">
+    <span style="background: linear-gradient(45deg, #00D9FF, #FF0080, #7928CA); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      Let's Connect
+    </span>
+  </h2>
+  
+  <div style="margin: 30px 0;">
+    <a href="https://abdurahman.dev" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0A0E27" alt="Portfolio"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://linkedin.com/in/abdurahman-dev" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E27" alt="LinkedIn"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/abdurahman" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0E27" alt="GitHub"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:hello@abdurahman.dev">
+      <img src="https://img.shields.io/badge/Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E27" alt="Email"/>
+    </a>
+  </div>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=abdurahman&style=for-the-badge&color=00D9FF&labelColor=0A0E27" alt="Profile Views"/>
+</div>
