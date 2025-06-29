@@ -137,15 +137,15 @@
   </h2>
   
   <div style="margin: 30px 0;">
-    <a href="https://abdurahman.dev" target="_blank">
+    <a href="https://github.com/Abdurahman-Abdella">
       <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0A0E27" alt="Portfolio"/>
     </a>
     &nbsp;&nbsp;
-    <a href="https://linkedin.com/in/abdurahman-dev" target="_blank">
+    <a href="https://www.linkedin.com/in/abdurahamanlinked7750">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E27" alt="LinkedIn"/>
     </a>
     &nbsp;&nbsp;
-    <a href="https://github.com/abdurahman" target="_blank">
+    <a href="https://github.com/Abdurahman-Abdella">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0E27" alt="GitHub"/>
     </a>
     &nbsp;&nbsp;
@@ -154,6 +154,7 @@
     </a>
   </div>
 </div>
+
 
 <br />
 
